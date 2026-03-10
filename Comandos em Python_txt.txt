@@ -1,0 +1,21 @@
+Comandos em Python
+\n - quebra de linha
+\t - atalho de escape para adicionar uma aba
+\ - atalho de escape para ignorar um caractere em uma string com '' ou "". ex: print("E então ela disse \"Peguei!\" ao agarrar a galinha d\'angola.") 
+'''  '''  - possível escrever uma variável em varias linhas diferentes
+type() - verifica o tipo da variável 
+len() - calcula o comprimento da string - 1, positiva ex: len(variável[3]) ou negativa ex: len(variável[-3]) ou cortar um pedaço ex: len(variável[2:6])
+try:  - tentar esse
+	print()
+except: se erro então executar esse
+	print()
+.format() - formata uma variável para adiciona-la a string em colchetes {}
+f''  - formata uma string 
+upper() - deixar os caracteres em caixa alta 
+lower() - deixar os caracteres em caixa baixa
+replace() - substitui todas as ocorrências informadas ex: substituir 'maçã' por 'laranja' replace('maçã', 'laranja')  
+strip() - remover espaços em branco do inicio e do fim de um string
+append() - adiciona um item no final da lista 
+extend() - adiciona 1 ou mais itens na lista 
+insert () - insere um item na lista podendo escolher em que ordem colocar. ex: .insert(1:'posição')
+pop() - remove um item da lista
