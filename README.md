@@ -154,7 +154,7 @@ It represents an early stage of my development in Python programming and data an
 
 ## 👩‍💻 Author
 
-**Andressa Cruz Miranda**
+**Andressa Miranda**
 
 Computer Science | Data Analytics | Python
 
